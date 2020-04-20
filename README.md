@@ -1,4 +1,4 @@
-# uni-app-project
+# uni-app-project  使用脚手架进行开发
 
 ## Project setup
 ```
